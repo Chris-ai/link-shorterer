@@ -1,6 +1,6 @@
 # Shortly - URL shortening API
 
-This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6).
+This is a solution to the [E-commerce product page challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/ecommerce-product-page-UPsZ9MJp6). This project is a single web application to shorten links using the shrtco.de API. The site was built using a JS framework called `Vue.js`. The site is fully responsive and the `CSS`, written using the `SCSS` preprocessor is fully proprietary. I used a javascript library called `axios` to retrieve api requests.
 
 # 📝 Table of contents
 
